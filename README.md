@@ -1,2 +1,2 @@
-# AppMyIOC
-A simple IOC  container with .net
+APPIOC 为一个简单IOC示例
+后面三个工程为AOP的一种一种开发模式
